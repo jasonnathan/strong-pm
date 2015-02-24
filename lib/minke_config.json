@@ -1,0 +1,8 @@
+{
+	"stale_minutes": 1500,
+	"chart_minutes": 1440,
+	"max_transaction_count": 30,
+ 	"in_memory": false,
+ 	"dir_path": "../",
+ 	"db_name": "minkelite.db"
+}
